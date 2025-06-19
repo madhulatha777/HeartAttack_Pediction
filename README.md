@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 🔍 App Preview
 
-Below is a screenshot of the Fetal Health Prediction Streamlit web app:
+Below is a screenshot of the Heart Attack Prediction Streamlit web app:
 
 ![Streamlit App Screenshot](...)
 
