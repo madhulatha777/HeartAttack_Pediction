@@ -62,9 +62,11 @@ streamlit run app.py
 
 Below is a screenshot of the Heart Attack Prediction Streamlit web app:
 
-![Streamlit App Screenshot](...)
+![Streamlit App Screenshot](https://github.com/madhulatha777/HeartAttack_Pediction/blob/main/images/Pr.jpg)
 
-![Streamlit App Screenshot](...)
+![Streamlit App Screenshot](https://github.com/madhulatha777/HeartAttack_Pediction/blob/main/images/Pr2.jpg)
+
+![Streamlit App Screenshot](https://github.com/madhulatha777/HeartAttack_Pediction/blob/main/images/Pr1.jpg)
 
 ---
 
